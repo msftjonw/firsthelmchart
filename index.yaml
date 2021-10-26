@@ -3,12 +3,12 @@ entries:
   firsthelmchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-26T12:33:34.368482023-07:00"
+    created: "2021-10-26T14:21:14.140511521-07:00"
     description: A Helm chart for Kubernetes
-    digest: cdcb684f000e7e92212b63128cf52515753ea75c7f55d827aa699a0c5a0ea462
+    digest: b6618298daab38982c85d6b8d60eafa01fdb09cc9e67b3598e0b7b205e9dd090
     name: firsthelmchart
     type: application
     urls:
-    - https://msftjonw.github.io/firsthelmchart/firsthelmchart-0.1.0.tgz
-    version: 0.1.0
-generated: "2021-10-26T12:33:34.360141665-07:00"
+    - https://msftjonw.github.io/firsthelmchart/firsthelmchart-0.2.0.tgz
+    version: 0.2.0
+generated: "2021-10-26T14:21:14.102695059-07:00"
